@@ -1,7 +1,9 @@
 # Hello from space 🪐
 
-# 💫 About Me:
-- 🌱 I’m currently learning **System Security**
+# About Me:
+- I’m currently learning **System Security**
+- Python
+- OSINT
 
 
 ## My Skill Set  
