@@ -25,7 +25,7 @@
 
 ## Spotify
 <div align="center">
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31pudr7l52cbrpm67c4f6dmtp2um&cover_image=true&theme=default&show_offline=false&bar_color=0af0b6)  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31pudr7l52cbrpm67c4f6dmtp2um&cover_image=true&theme=default&show_offline=false&bar_color=0af0b6"/>
 </div>
   
 <br/>  
