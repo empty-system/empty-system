@@ -23,12 +23,6 @@
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31pudr7l52cbrpm67c4f6dmtp2um&cover_image=true&theme=default&show_offline=false&bar_color=0af0b6)
 
-</td><td valign="top" width="33%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=empty-system&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td></tr></table>  
-
 
 
 ## Github Stats  
