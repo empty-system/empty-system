@@ -1,6 +1,6 @@
-# Hello from space 🪐
+# 🪐
 
-# About Me:
+## About Me:
 - I’m currently learning **System Security**
 - Python
 - OSINT
