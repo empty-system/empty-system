@@ -1,7 +1,7 @@
 # 🪐
 
 ## About Me:
-- I’m currently learning **System Security**
+- IT Security engineer
 - Python
 - OSINT
 
