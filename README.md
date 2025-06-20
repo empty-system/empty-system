@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there, I'm Romain Monnom</h1>
+<h1 align="center">👋 Hello there</h1>
 <p align="center">
   🧠 Self-learner • 🐍 Python Dev • 🔍 OSINT Explorer • 🖥️ Tinkerer • 🎮 Gamer
 </p>
