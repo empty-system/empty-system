@@ -63,6 +63,7 @@ Board game made under python for school project.
 ### ☕ Let's Connect
 
 💬 Discord: **ssh3n**
+💬 Rootme: https://www.root-me.org/Shenmue404
 
 ---
 
